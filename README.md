@@ -6,4 +6,4 @@ Rifacciamo l’esercizio visto insieme, ma questa volta con il ciclo while al po
 
 1. crea un array con prodotti spesa
 2. con ciclo while, scorri l'array 
-3. stampa i prodotti dell'array in Dom
+3. stampa i prodotti dell'array nel Dom
